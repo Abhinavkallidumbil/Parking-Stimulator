@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Garage/main menu.unity
+    guid: c959c098c2ae1144fa212ceefbd7a9e2
+  - enabled: 1
+    path: Assets/Scenes/FreeRoam.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/parking.unity
+    guid: e07dac87102e3854ebc809b7940e1554
+  - enabled: 1
+    path: Assets/Scenes/parking 2.unity
+    guid: d41c478c4f214b441bd7e7422b64fde0
+  - enabled: 1
+    path: Assets/Scenes/parking 3.unity
+    guid: d03024a6ca488a54fa2bb14f6dda226c
+  - enabled: 1
+    path: Assets/Scenes/parking 4.unity
+    guid: d9121274c52204a4880b79e488cace8c
+  - enabled: 1
+    path: Assets/Scenes/parking 5.unity
+    guid: e3b2d2121d4ff7c41974a97f35964488
+  - enabled: 1
+    path: Assets/Scenes/parking 6.unity
+    guid: aaf4a289722353a4795997a76ae9e2dd
+  - enabled: 1
+    path: Assets/Scenes/parking 7.unity
+    guid: a38157b2442e61d4190dbe57e6ff9e1e
+  - enabled: 1
+    path: Assets/Scenes/parking 8.unity
+    guid: 8281eaa05f56c174e9a8c2c994789407
+  - enabled: 1
+    path: Assets/Scenes/parking 9.unity
+    guid: 55794cd10a3e61d4d99135d06e8f648a
+  - enabled: 1
+    path: Assets/Scenes/parking 10.unity
+    guid: 2a2b33457aebaee4b9e2fda4c60c56fd
+  - enabled: 1
+    path: Assets/Scenes/Parkingmenu.unity
+    guid: a923c060080a2394a9810f6ecdc1fe16
+  m_configObjects: {}
